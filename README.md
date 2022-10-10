@@ -10,5 +10,8 @@ I develop Encryption and Decryption Algorithm for secure communication in the pr
 # 'f' function working
 ![image](https://user-images.githubusercontent.com/107295126/194883687-6d710a3b-90ff-4a68-8b95-f3a0f94dfa35.png)
 
+# Appliction of DES
+![image](https://user-images.githubusercontent.com/107295126/194883910-b045cfa7-5747-415a-9a4f-9ebaa3137316.png)
+
 # Output
 ![image](https://user-images.githubusercontent.com/107295126/194882470-a6f0f110-e911-40f1-9499-80311ffe69b3.png)
